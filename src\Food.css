@@ -1,0 +1,7 @@
+.food {
+  position: absolute;
+  width: 1vw;
+  height: 1vh;
+  background-color: #ff0000;
+  border-radius: 50%;
+}
