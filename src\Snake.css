@@ -1,0 +1,7 @@
+.snake-segment {
+  position: absolute;
+  width: 1vw;
+  height: 1vh;
+  background-color: #00ff00;
+  border-radius: 50%;
+}
